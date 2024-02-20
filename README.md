@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I am Eric 👋
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericalcantaravalenzuela/)
 
 [![ealcan's github stats](https://github-readme-stats.vercel.app/api?username=ealcan&theme=blue-green)](https://github.com/ealcan/github-readme-stats)
 
