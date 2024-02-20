@@ -5,6 +5,9 @@
 
 [![ealcan's github stats](https://github-readme-stats.vercel.app/api?username=ealcan&theme=blue-green)](https://github.com/ealcan/github-readme-stats)
 
+[![ealcan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ealcan&theme=blue-green)](https://github.com/ealcan/github-readme-stats)
+
+
 <!--
 **ealcan/ealcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
